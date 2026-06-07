@@ -2,10 +2,6 @@
 This repository contains my tasks, projects, and learning progress during the AI & Automation Internship at Infrix.
 # About Me
 Artificial Intelligence Student | AI & Automation Enthusiast | Gaining hands-on experience through real-world projects and continuous learning.
-# Tasks
- Task 1
- Task 2
- Task 3
 # Goals
  Learn AI and Automation tools
  Build practical projects
